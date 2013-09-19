@@ -1,4 +1,4 @@
-use Test::More tests => 23;
+use Test::More;
 use Test::Exception;
 use Data::Dumper qw/Dumper/;
 use FindBin qw/$Bin/;
